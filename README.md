@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently looking for an **intern job**.
+- 🔭 I’m currently looking for an **internship**.
 - 🌱 I’m currently learning **Software & Web Development**.
 - 👯 I’m looking to collaborate on **any project**.
 - 🤔 I’m looking for help with ...
