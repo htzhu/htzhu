@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50px"/> Hi
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50px"/> Hi there!
 </h1>
 
 <!--
@@ -30,15 +30,6 @@ Here are some ideas to get you started:
   
 
 -->
-
-### Github
-
-<div align="center">
-  <a href="https://github.com/SonnyCatt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SonnyCatt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-      
-##
   
 ### Knowledge
       
