@@ -27,6 +27,38 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
+
+<p align="center">"It's Gold For Geeks"</p>
+
+<p align="center">
+<img width="40%" alt="Link to portfolio" src="./img/nft.gif">
+</p>
+
+<h2 align="center">My Github's Stats:</h2>
+
+<img align="right" width="37%" src="https://github.com/htzhu/htzhu/img/nft.gif" alt="htzhu's pic"/>
+
+<p align="left">
+<img width="50%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=htzhu&show_icons=true&theme=tokyonight&hide=stars_private=true">
+<img width="50%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htzhu&layout=compact&theme=tokyonight&langs_count=20">
+</p>
+
+<h2 align="center">My Social:</h2>
+<p align="center">
+<a href="https://github.com/htzhu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/haotian-zhu" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+
+
+
+
+
+
+
+
+
 <!--
 **ursonny/ursonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,15 +85,6 @@ Here are some ideas to get you started:
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code> 
     </a> 
-  
-
--->
-
-<p align="center">"It's Gold For Geeks"</p>
-
-<p align="center">
-<img width="40%" alt="Link to portfolio" src="./img/nft.gif">
-</p>
 
 ### Knowledge
       
@@ -72,12 +95,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-  
-<h2 align="center">My Social:</h2>
-<p align="center">
-<a href="https://github.com/htzhu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/haotian-zhu" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+</div>  
 
+-->
