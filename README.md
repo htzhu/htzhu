@@ -1,7 +1,16 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50px"/> Hi! I'm <a href="">ℋ𝒶𝑜𝓉𝒾𝒶𝓃</a>
 </h1>
 
-<h2>𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸</h2>
+
+<h2 align="center">My Social:</h2>
+<p align="center">
+<a href="https://github.com/htzhu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/haotian-zhu" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+
+<h2 align="center">𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸:</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -42,15 +51,6 @@
 <img width="50%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=htzhu&show_icons=true&theme=tokyonight&hide=stars_private=true">
 <img width="50%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htzhu&layout=compact&theme=tokyonight&langs_count=20">
 </p>
-
-<h2 align="center">My Social:</h2>
-<p align="center">
-<a href="https://github.com/htzhu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/haotian-zhu" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-
 
 
 
