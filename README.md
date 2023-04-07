@@ -30,7 +30,13 @@ Here are some ideas to get you started:
   
 
 -->
-  
+
+<p align="center">"It's Gold For Geeks"</p>
+
+<p align="center">
+<img width="40%" alt="Link to portfolio" src="./img/nft.gif">
+</p>
+
 ### Knowledge
       
 <div style="display: inline_block"><br>
