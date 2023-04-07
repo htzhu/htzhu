@@ -32,13 +32,10 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 
+<p align="center"><img width="40%" alt="Link to portfolio" src="./img/nft.gif"></p>
 <p align="center">"It's Gold For Geeks"</p>
 
-<p align="center">
-<img width="40%" alt="Link to portfolio" src="./img/nft.gif">
-</p>
-
-<h2 align="center">My Github's Stats:</h2>
+## My Github's Stats:
 
 <img align="right" width="37%" src="https://github.com/htzhu/htzhu/img/nft.gif" alt="htzhu's pic"/>
 
