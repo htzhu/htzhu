@@ -41,7 +41,7 @@
 
 <img align="right" width="37%" src="https://github.com/htzhu/htzhu/img/nft.gif" alt="htzhu's pic"/>
 
-<p align="left">
+<p align="center">
 <img width="50%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=htzhu&show_icons=true&theme=tokyonight&hide=stars_private=true">
 <img width="50%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htzhu&layout=compact&theme=tokyonight&langs_count=20">
 </p>
